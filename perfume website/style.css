@@ -1,0 +1,71 @@
+.one{
+    background-color: black;
+}
+h1{
+    display: inline-block;
+    color: white;
+    margin-right: 60%;
+    margin-left: 100px;
+}
+h3.head{
+    display:inline-block;
+    color: grey;
+}
+input{
+    width: 80%;
+    padding: 15px;
+}
+.bar{
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 50px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+.img{
+    width: 300px;
+    text-align: justify;
+    display: inline-block;
+    border: 4px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+.img:hover{
+    background-color: black;
+    color: white;
+}
+.products{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about{
+    text-align: center;
+}
+.about > h3{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: grey;
+}
+.contact{
+    background-color: black;
+    margin-top: 50px;
+    padding: 30px 50px 50px 50px; 
+}
+.contact>h3{
+    display: block;
+    height: 5px;
+    text-align: center;
+}
+.contact>h4{
+    display: block;
+    height: 1px;
+    text-align: center;
+}
+.contact>p{
+    margin-top: 50px;
+    text-align: center;
+}
